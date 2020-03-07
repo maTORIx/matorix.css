@@ -2,7 +2,7 @@
 
 ## Sample
 
-![sample]](./images/sample.png "サンプル")
+![sample](./images/sample.png "サンプル")
 
 ## How to use
 

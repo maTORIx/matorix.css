@@ -2,6 +2,8 @@
 
 ## Sample
 
+![sample]](./images/sample.png "サンプル")
+
 ## How to use
 
 1. Download matorix.css
